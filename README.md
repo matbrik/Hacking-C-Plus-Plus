@@ -22,5 +22,10 @@ In this lesson we will debug our simple hello world program.
 
 -> Click [HERE](https://www.linkedin.com/pulse/lesson-4-hacking-c-arm-64-part-debugging-hello-world-kevin-thomas/) to read the article on LinkedIn.
 
+## Lesson 5: Hacking C++ ARM 64 (Part 5 - Hacking "Hello World")
+In this lesson we will hack our simple hello world program.
+
+-> Click [HERE](https://www.linkedin.com/pulse/lesson-5-hacking-c-arm-64-part-hello-world-kevin-thomas/) to read the article on LinkedIn.
+
 ## License
 [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
