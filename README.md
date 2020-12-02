@@ -27,5 +27,7 @@ In this lesson we will hack our simple hello world program.
 
 -> Click [HERE](https://www.linkedin.com/pulse/lesson-5-hacking-c-arm-64-part-hello-world-kevin-thomas/) to read the article on LinkedIn.
 
+## Lesson 6: COMING SOON!
+
 ## License
 [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
