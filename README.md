@@ -29,7 +29,12 @@ In this lesson we will hack our simple hello world program.
 
 -> Click [HERE](https://www.linkedin.com/pulse/lesson-5-hacking-c-arm-64-part-hello-world-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 6: COMING SOON!
+## Lesson 6: Hacking C++ ARM 64 (Part 6 - Basic I/O)
+In this lesson we will discuss how to write and compile a simple basicio program in C++ and discuss basic input validation.
+
+-> Click [HERE](https://www.linkedin.com/pulse/lesson-6-hacking-c-arm-64-part-basic-io-kevin-thomas/) to read the article on LinkedIn.
+
+## Lesson 7: COMING SOON!
 
 ## License
 [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
