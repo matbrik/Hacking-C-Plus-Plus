@@ -34,7 +34,12 @@ In this lesson we will discuss how to write and compile a simple basicio program
 
 -> Click [HERE](https://www.linkedin.com/pulse/lesson-6-hacking-c-arm-64-part-basic-io-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 7: COMING SOON!
+## Lesson 7: Hacking C++ ARM 64 (Part 7 - Debugging Basic I/O)
+In this lesson we will discuss how to debug a simple basicio program in C++ and discuss basic input validation.
+
+-> Click [HERE](https://www.linkedin.com/pulse/lesson-7-hacking-c-arm-64-part-debugging-basic-io-kevin-thomas/) to read the article on LinkedIn.
+
+## Lesson 8: COMING SOON!
 
 ## License
 [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
