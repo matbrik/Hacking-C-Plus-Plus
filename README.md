@@ -44,7 +44,12 @@ In this lesson we will discuss how to hack a simple basicio program in C++ and d
 
 -> Click [HERE](https://www.linkedin.com/pulse/lesson-8-hacking-c-arm-64-part-basic-io-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 9: COMING SOON!
+## Lesson 9: Hacking C++ ARM 64 (Part 9 - Character Primitive Datatype)
+In this lesson we will discuss the char primitive datatype.
+
+-> Click [HERE](https://www.linkedin.com/pulse/lesson-9-hacking-c-arm-64-part-character-primitive-datatype-thomas/) to read the article on LinkedIn.
+
+## Lesson 10: COMING SOON!
 
 ## License
 [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
