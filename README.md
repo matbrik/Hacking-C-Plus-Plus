@@ -54,7 +54,12 @@ In this lesson we will discuss debugging the char primitive datatype.
 
 -> Click [HERE](https://www.linkedin.com/pulse/lesson-10-hacking-c-arm-64-part-debugging-character-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 11: COMING SOON!
+## Lesson 11: Hacking C++ ARM 64 (Part 11 - Hacking Character Primitive Datatype)
+In this lesson we will discuss hacking the char primitive datatype.
+
+-> Click [HERE](https://www.linkedin.com/pulse/lesson-11-hacking-c-arm-64-part-character-primitive-kevin-thomas/) to read the article on LinkedIn.
+
+## Lesson 12: COMING SOON!
 
 ## License
 [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
