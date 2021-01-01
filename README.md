@@ -59,7 +59,12 @@ In this lesson we will discuss hacking the char primitive datatype.
 
 -> Click [HERE](https://www.linkedin.com/pulse/lesson-11-hacking-c-arm-64-part-character-primitive-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 12: COMING SOON!
+## Lesson 12: ARM-64 Course (Part 12 - Boolean Primitive Datatype)
+In this lesson we will discuss the boolean primitive datatype.
+
+-> Click [HERE](https://www.linkedin.com/pulse/hacking-c-arm-64-part-12-boolean-primitive-datatype-kevin-thomas/) to read the article on LinkedIn.
+
+## Lesson 13: COMING SOON!
 
 ## License
 [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
