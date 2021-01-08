@@ -64,7 +64,12 @@ In this lesson we will discuss the boolean primitive datatype.
 
 -> Click [HERE](https://www.linkedin.com/pulse/hacking-c-arm-64-part-12-boolean-primitive-datatype-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 13: COMING SOON!
+## Lesson 13: ARM-64 Course (Part 13 - Debugging Boolean Primitive Datatype)
+In this lesson we will discuss debugging the boolean primitive datatype.
+
+-> Click [HERE](https://www.linkedin.com/pulse/hacking-c-arm-64-part-13-debugging-boolean-primitive-kevin-thomas/) to read the article on LinkedIn.
+
+## Lesson 14: COMING SOON!
 
 ## License
 [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
